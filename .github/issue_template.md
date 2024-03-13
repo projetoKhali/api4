@@ -1,10 +1,10 @@
-# Problema:
-`O que precisa ser resolvido?`
+# Necessidade:
+`Qual iniciativa precisa ser trabalhada?`
 
 - 
 
 # Motivação:
-`Por que precisamos dessa iniciativa`
+`Por que precisamos dessa mudança?`
 
 - 
 
