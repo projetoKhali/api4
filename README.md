@@ -9,8 +9,6 @@
     <a href="#equipe">Equipe</a>
 </p>
 
-## :page_with_curl: O Projeto
-
 <span id="sobre">
 
 ![Drak Blue Modern Twitter Header](https://github.com/projetoKhali/api4/assets/108769169/8c17331f-14f2-4f51-8328-6b016d53afd9)
@@ -19,9 +17,10 @@
 
 ## :dart: Backlog do produto
 
-| *STORY* |  *CRITÉRIOS DE ACEITE*  | *PRIORIDADES* | *PONTUAÇÃO* |
-|-----------------------|-------------------------|-------------------------|-------------------------|
-| Eu como usuário quero ser capaz de cadastrar novos Parceiros na plataforma para que eu possa acompanhar o seu desenvolvimento | Interface de cadastro fácil de usar; Validação de dados inseridos; Armazenamento seguro das informações dos parceiros no banco de dados; Confirmação de sucesso do cadastro; |  | |
+| Sprint | Story | Critérios de aceite | Prioridades | Valor da prioridade | Dificuldade | Pontuação |
+| --------- | ----- | ------------------- | ----------- | ------------------- | ----------- | --------- |
+| Sprint 1 | Eu como usuário quero ter uma visão analitica individual do progresso dos parceiros para que eu acompanhar o desenvolvimento do mesmo | Gráfico geral com o progresso por expertise, Área para acompanhar o progresso dos qualificadores, Área onde exibe as tracks que aquele parceiro está. | Muito importante	| 6	| 7 | 13 |
+| Sprint 1 |  Eu como usuário quero ter uma visão analitica individual dos nossos produtos para que eu possa obter insights acerca do desempenho desses produto | Gráfico geral com a quantidade de parceiros por expertise, Gráfico geral com a média do progresso dos parceiros por expertise, Gráfico geral com a média do progresso dos parceiros por qualificador | Muito importante |	6 | 7 | 13 |
 
 <span id="entrega">
 
