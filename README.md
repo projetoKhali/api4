@@ -17,27 +17,64 @@
 
 ## :dart: Backlog do produto
 
-| Sprint | Story | Critérios de aceite | Prioridades | Valor da prioridade | Dificuldade | Pontuação |
-| --------- | ----- | ------------------- | ----------- | ------------------- | ----------- | --------- |
-| Sprint 1 | Eu como usuário quero ter uma visão analitica individual do progresso dos parceiros para que eu acompanhar o desenvolvimento do mesmo | Gráfico geral com o progresso por expertise, Área para acompanhar o progresso dos qualificadores, Área onde exibe as tracks que aquele parceiro está. | Muito importante	| 6	| 7 | 13 |
-| Sprint 1 |  Eu como usuário quero ter uma visão analitica individual dos nossos produtos para que eu possa obter insights acerca do desempenho desses produto | Gráfico geral com a quantidade de parceiros por expertise, Gráfico geral com a média do progresso dos parceiros por expertise, Gráfico geral com a média do progresso dos parceiros por qualificador | Muito importante |	6 | 7 | 13 |
+| **Sprint** | **Story** | **Pontuação** |
+| :---------: | :----- | :-------------------: | 
+| Sprint 1 | Eu como Consultor de alianças quero ter uma visão analitica individual do progresso dos parceiros para que eu possa acompanhar o desenvolvimento do mesmo | 10	|
+| Sprint 1 | Eu como Consultor de alianças quero ter uma visão analitica individual dos nossos produtos para que eu possa obter insights acerca do desempenho desses produto | 13 |
 
 <span id="entrega">
 
 ## :white_check_mark: Entrega das Sprints
 
-| **SPRINT** | **PERÍODO**| **O QUE SERÁ ENTREGUE** | **BACKLOG DAS SPRINTS** |
-|:-------------:|:-----------------------:|:-------------------------:|:-------------------------:|
-|  01  | 25/03 a 14/04 |  |  |
-|  02  | 15/04 a 05/05 |  | 
-|  03  | 06/05 a 26/05 |  | 
-|  04  | 27/05 a 16/06 |  | 
+<details>
 
+<summary>Sprint 1 - Visão Analítica Individual do Progresso dos Parceiros &  Produtos </summary>
+
+## De 25/03 a 14/04 
+
+### Visão Analítica Individual do Progresso dos Parceiros
+  - Dashboard interativo com gráficos e métricas que mostram o progresso individual dos parceiros em relação às tracks, expertises e qualificadores, dados que serão analisados:
+>* Progresso médio do parceiro por track, progresso por expertise, qauntidade de expertises concluidas e em andamentos, tempo médio de conclusão de expertise e qualificador.
+  
+  - Wireframe das telas do dashboard para aprovação e visualização prévia.
+  - Modelagem do banco de dados com tabelas necessárias para armazenar informações sobre o progresso dos parceiros.
+  - Documentação detalhada da estrutura do banco de dados, incluindo diagrama de entidade-relacionamento (DER) ou modelo relacional.
+
+### Visão Analítica Individual dos Produtos
+  - Dashboard Interativo com graficos e métricas que mostram o progresso individual das tracks suas expertises e qualificadores em relação ao parceiros, dados que serão analisados: 
+  >* Média de conclusão da track, expertise e qualificador, número de parceiros por tracks e expertise, média de conclusão da expertise e qualificar.
+  - Wireframe das telas do dashboard para aprovação e visualização prévia.
+  - Modelagem do banco de dados com tabelas necessárias para armazenar informações sobre o progresso dos produtos.
+  - Documentação detalhada da estrutura do banco de dados, incluindo diagrama de entidade-relacionamento (DER) ou modelo relacional.
+
+</details>
+</br>
+<details>
+
+<summary> Sprint 2 </summary>
+
+
+</details>
+</br>
+<details>
+
+<summary> Sprint 3 </summary>
+
+
+</details>
+</br>
+<details>
+
+<summary> Sprint 4 </summary>
+
+</details>
+</br>
 <span id="prototipo">
 
 ## :computer: Protótipo
-
 <span id="tecnologias">
+
+[Wireframe do projeto](https://www.figma.com/file/Fbo2e8xsvceYZqRb8IdSL5/API-4?type=design&fuid=1126277532830490619)
 
 ## :wrench: Tecnologias  
 
