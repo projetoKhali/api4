@@ -74,11 +74,22 @@
 ## :computer: Protótipo
 <span id="tecnologias">
 
-[Wireframe do projeto](https://www.figma.com/file/Fbo2e8xsvceYZqRb8IdSL5/API-4?type=design&fuid=1126277532830490619)
+[Wireframe do projeto](https://www.figma.com/file/xv1PCPoN53l0FKuZaYchth/API-4-Oracle?type=design&node-id=38%3A2&mode=design&t=sFayyNWive8MK80y-1)
 
 ## :wrench: Tecnologias  
 
-- [Excalidraw](https://excalidraw.com/#room=ca8df49138947d15c94e,UrPHkD9_1iiOpmstBiGOXw)
+<details>
+
+<summary> Front </summary>
+  -Vue JS
+  -Typescript
+  -Eslint + Prettier
+</details>
+
+<summary> Back </summary>
+  -Java
+</details>
+
 
 <span id="equipe">
 
