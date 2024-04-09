@@ -74,7 +74,7 @@
 ## :computer: Protótipo
 <span id="tecnologias">
 
-[Wireframe do projeto](https://www.figma.com/file/xv1PCPoN53l0FKuZaYchth/API-4-Oracle?type=design&node-id=38%3A2&mode=design&t=sFayyNWive8MK80y-1)
+[Wireframe do projeto](https://www.figma.com/proto/xv1PCPoN53l0FKuZaYchth/API-4-Oracle?type=design&node-id=38-2&t=7oac2UWs5HIKPzvg-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=38%3A2&mode=design)
 
 ## :wrench: Tecnologias  
 
@@ -82,9 +82,9 @@
 
 <summary> Front </summary>
 
-  -Vue JS
-  -Typescript
-  -Eslint + Prettier
+  - Vue JS
+  - Typescript
+  - Eslint + Prettier
   
 </details>
 
@@ -92,7 +92,7 @@
 
 <summary> Back </summary>
 
-  -Java
+  - Java
 
 </details>
 
