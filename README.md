@@ -81,13 +81,19 @@
 <details>
 
 <summary> Front </summary>
+
   -Vue JS
   -Typescript
   -Eslint + Prettier
+  
 </details>
 
+<details>
+
 <summary> Back </summary>
+
   -Java
+
 </details>
 
 
