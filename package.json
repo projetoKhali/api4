@@ -1,0 +1,16 @@
+{
+  "name": "api4",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/projetoKhali/api4",
+  "scripts": {
+    "mono": "concurrently \"yarn back-dev\" \"yarn front-dev\"",
+    "back-dev": "cd api && mvn spring-boot:run",
+    "front-dev": "cd web && yarn dev",
+    "db-up": "cd api && docker-compose up -d",
+    "db-down": "cd api && docker-compose down"
+  },
+  "dependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
