@@ -83,7 +83,7 @@
 
 ### Formulário para Cadastro e Atualização de Usuários:
 - Desenvolvimento de uma tela com formulário intuitivo para o cadastro de novos usuários, garantindo uma experiência amigável e eficiente.
-- Implementação da funcionalidade de edição para usuários já cadastrados, permitindo que informações sejam atualizadas conforme necessário.
+- Implementação da funcionalidade de edição para usuários já cadastrados, garantindo uma experiência contínua de gerenciamento de informações.
 - Wireframe das Telas de Cadastro de Usuários para Aprovação.
 
 </details>
