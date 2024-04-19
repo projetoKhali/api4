@@ -11,11 +11,11 @@
 
 <span id="sobre">
 
-![Drak Blue Modern Twitter Header](https://github.com/projetoKhali/api4/assets/108769169/8c17331f-14f2-4f51-8328-6b016d53afd9)
-
 <span id="backlogs">
 
-## :dart: Backlog do produto
+#
+
+![1](https://github.com/projetoKhali/api4/assets/111438883/83d20f6c-d75c-4f31-9376-040cbbc9831a)
 
 | **Sprint** | **Story** | **Pontuação** |
 | :---------: | :----- | :-------------------: | 
@@ -24,7 +24,10 @@
 
 <span id="entrega">
 
-## :white_check_mark: Entrega das Sprints
+
+#
+
+![2](https://github.com/projetoKhali/api4/assets/111438883/e7fdbd62-92a5-4f6c-8eba-d0e5289c89c4)
 
 <details>
 
@@ -71,12 +74,15 @@
 </br>
 <span id="prototipo">
 
-## :computer: Protótipo
+#
+![4](https://github.com/projetoKhali/api4/assets/111438883/5d285d92-f193-4217-8e36-99142c76c028)
+
+## Protótipo
 <span id="tecnologias">
 
 [Wireframe do projeto](https://www.figma.com/proto/xv1PCPoN53l0FKuZaYchth/API-4-Oracle?type=design&node-id=38-2&t=7oac2UWs5HIKPzvg-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=38%3A2&mode=design)
 
-## :wrench: Tecnologias  
+## Tecnologias 
 
 <details>
 
@@ -98,8 +104,6 @@
 
 
 <span id="equipe">
-
-## :busts_in_silhouette: Equipe
 
 ![2](https://github.com/projetoKhali/api4/assets/108769169/1e5fe000-ec9e-409a-8db4-d97933b260cb)
 
