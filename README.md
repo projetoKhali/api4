@@ -17,10 +17,30 @@
 
 ![1](https://github.com/projetoKhali/api4/assets/111438883/83d20f6c-d75c-4f31-9376-040cbbc9831a)
 
+<details>
+<summary>Sprint 1 - Visão Analítica Individual do Progresso dos Parceiros & Produtos </summary>
+
+
 | **Sprint** | **Story** | **Pontuação** |
 | :---------: | :----- | :-------------------: | 
 | Sprint 1 | Eu como Consultor de alianças quero ter uma visão analitica individual do progresso dos parceiros para que eu possa acompanhar o desenvolvimento do mesmo | 10	|
 | Sprint 1 | Eu como Consultor de alianças quero ter uma visão analitica individual dos nossos produtos para que eu possa obter insights acerca do desempenho desses produto | 13 |
+
+</details>
+</br>
+<details>
+
+<summary> Sprint 2 - Cadastro de Parceiros e Usuarios </summary>
+
+| **Sprint** | **Story** | **Pontuação** |
+| :---------: | :----- | :-------------------: | 
+| Sprint 2 | Eu como Administrador quero ser capaz de cadastrar novos Parceiros na plataforma para que eu possa acompanhar o seu desenvolvimento | 8 |
+| Sprint 2 | Eu como Administrador quero ser capaz de atualizar os dados de um parceiro para manter seus dados sempre atualizados | 9 |
+| Sprint 2 | Eu como Administrador quero ser capaz de cadastrar novos usuários para que eles possam utilizar o sistema | 7 |
+| Sprint 2 | Eu como Administrador quero ser capaz de atualizar os dados de um usuário para manter seus dados sempre atualizados | 9 |
+
+</details>
+</br>
 
 <span id="entrega">
 
@@ -31,7 +51,7 @@
 
 <details>
 
-<summary>Sprint 1 - Visão Analítica Individual do Progresso dos Parceiros &  Produtos </summary>
+<summary>Sprint 1 - Visão Analítica Individual do Progresso dos Parceiros & Produtos </summary>
 
 ## De 25/03 a 14/04 
 
@@ -95,7 +115,7 @@
 
 <details>
 
-<summary> Front </summary>
+<summary> Front-end </summary>
 
   - Vue JS
   - Typescript
@@ -105,11 +125,13 @@
 
 <details>
 
-<summary> Back </summary>
+<summary> Back-end </summary>
 
   - Java
 
 </details>
+
+#
 
 
 <span id="equipe">
