@@ -56,16 +56,12 @@
 ### Formulário para Cadastro e Atualização de Parceiros:
 - Desenvolvimento de uma tela com formulário intuitivo para o cadastro de novos parceiros.
 - Implementação da funcionalidade de edição para parceiros já cadastrados, garantindo uma experiência contínua de gerenciamento de informações.
-- Wireframe das Telas de Cadastro de Parceiros para Aprovação:
-Criação de wireframes detalhados que visualizam a interface das telas de cadastro de parceiros.
-- Inclusão de elementos visuais que representam a disposição dos campos, botões e outras interações necessárias para o cadastro e edição de parceiros.
+- Wireframe das Telas de Cadastro de Parceiros para Aprovação.
 
 ### Formulário para Cadastro e Atualização de Usuários:
 - Desenvolvimento de uma tela com formulário intuitivo para o cadastro de novos usuários, garantindo uma experiência amigável e eficiente.
 - Implementação da funcionalidade de edição para usuários já cadastrados, permitindo que informações sejam atualizadas conforme necessário.
-- Wireframe das Telas de Cadastro de Usuários para Aprovação:
-- Criação de wireframes detalhados que representam a interface das telas de cadastro de usuários.
-- Inclusão de elementos visuais que exemplificam a disposição dos campos e as interações necessárias para o cadastro e edição de usuários.
+- Wireframe das Telas de Cadastro de Usuários para Aprovação.
 
 </details>
 </br>
