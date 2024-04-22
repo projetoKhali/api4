@@ -15,7 +15,7 @@
 
 #
 
-![1](https://github.com/projetoKhali/api4/assets/111438883/83d20f6c-d75c-4f31-9376-040cbbc9831a)
+![3](https://github.com/projetoKhali/api4/assets/111438883/5e49ebb5-8789-44d0-9a86-0018b7bcaa05)
 
 <details>
 <summary>Sprint 1 - Visão Analítica Individual do Progresso dos Parceiros & Produtos </summary>
@@ -47,7 +47,7 @@
 
 #
 
-![2](https://github.com/projetoKhali/api4/assets/111438883/e7fdbd62-92a5-4f6c-8eba-d0e5289c89c4)
+![2](https://github.com/projetoKhali/api4/assets/111438883/44b951f1-4b9e-42b8-8b17-d6fafecdfc0a)
 
 <details>
 
@@ -104,7 +104,7 @@
 <span id="prototipo">
 
 #
-![4](https://github.com/projetoKhali/api4/assets/111438883/5d285d92-f193-4217-8e36-99142c76c028)
+![4](https://github.com/projetoKhali/api4/assets/111438883/88c0ad5e-a983-408d-9036-7493a7e74b7e)
 
 ## Protótipo
 <span id="tecnologias">
