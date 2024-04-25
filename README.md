@@ -11,24 +11,47 @@
 
 <span id="sobre">
 
-![Drak Blue Modern Twitter Header](https://github.com/projetoKhali/api4/assets/108769169/8c17331f-14f2-4f51-8328-6b016d53afd9)
-
 <span id="backlogs">
 
-## :dart: Backlog do produto
+#
+
+![3](https://github.com/projetoKhali/api4/assets/111438883/5e49ebb5-8789-44d0-9a86-0018b7bcaa05)
+
+<details>
+<summary>Sprint 1 - Visão Analítica Individual do Progresso dos Parceiros & Produtos </summary>
+
 
 | **Sprint** | **Story** | **Pontuação** |
 | :---------: | :----- | :-------------------: | 
 | Sprint 1 | Eu como Consultor de alianças quero ter uma visão analitica individual do progresso dos parceiros para que eu possa acompanhar o desenvolvimento do mesmo | 10	|
 | Sprint 1 | Eu como Consultor de alianças quero ter uma visão analitica individual dos nossos produtos para que eu possa obter insights acerca do desempenho desses produto | 13 |
 
+</details>
+</br>
+<details>
+
+<summary> Sprint 2 - Cadastro de Parceiros e Usuarios </summary>
+
+| **Sprint** | **Story** | **Pontuação** |
+| :---------: | :----- | :-------------------: | 
+| Sprint 2 | Eu como Administrador quero ser capaz de cadastrar novos Parceiros na plataforma para que eu possa acompanhar o seu desenvolvimento | 8 |
+| Sprint 2 | Eu como Administrador quero ser capaz de atualizar os dados de um parceiro para manter seus dados sempre atualizados | 9 |
+| Sprint 2 | Eu como Administrador quero ser capaz de cadastrar novos usuários para que eles possam utilizar o sistema | 7 |
+| Sprint 2 | Eu como Administrador quero ser capaz de atualizar os dados de um usuário para manter seus dados sempre atualizados | 9 |
+
+</details>
+</br>
+
 <span id="entrega">
 
-## :white_check_mark: Entrega das Sprints
+
+#
+
+![2](https://github.com/projetoKhali/api4/assets/111438883/44b951f1-4b9e-42b8-8b17-d6fafecdfc0a)
 
 <details>
 
-<summary>Sprint 1 - Visão Analítica Individual do Progresso dos Parceiros &  Produtos </summary>
+<summary>Sprint 1 - Visão Analítica Individual do Progresso dos Parceiros & Produtos </summary>
 
 ## De 25/03 a 14/04 
 
@@ -51,36 +74,48 @@
 </br>
 <details>
 
-<summary> Sprint 2 </summary>
+<summary> Sprint 2 - Cadastro de Parceiros e Usuarios </summary>
+
+### Formulário para Cadastro e Atualização de Parceiros:
+- Desenvolvimento de uma tela com formulário intuitivo para o cadastro de novos parceiros.
+- Implementação da funcionalidade de edição para parceiros já cadastrados, garantindo uma experiência contínua de gerenciamento de informações.
+- Wireframe das Telas de Cadastro de Parceiros para Aprovação.
+
+### Formulário para Cadastro e Atualização de Usuários:
+- Desenvolvimento de uma tela com formulário intuitivo para o cadastro de novos usuários, garantindo uma experiência amigável e eficiente.
+- Implementação da funcionalidade de edição para usuários já cadastrados, garantindo uma experiência contínua de gerenciamento de informações.
+- Wireframe das Telas de Cadastro de Usuários para Aprovação.
+
+</details>
+</br>
+<details>
+
+<summary> Sprint 3 - Não definido </summary>
 
 
 </details>
 </br>
 <details>
 
-<summary> Sprint 3 </summary>
-
-
-</details>
-</br>
-<details>
-
-<summary> Sprint 4 </summary>
+<summary> Sprint 4 - Não definido </summary>
 
 </details>
 </br>
 <span id="prototipo">
 
-## :computer: Protótipo
+#
+![4](https://github.com/projetoKhali/api4/assets/111438883/88c0ad5e-a983-408d-9036-7493a7e74b7e)
+
+## Protótipo
 <span id="tecnologias">
 
 [Wireframe do projeto](https://www.figma.com/proto/xv1PCPoN53l0FKuZaYchth/API-4-Oracle?type=design&node-id=38-2&t=7oac2UWs5HIKPzvg-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=38%3A2&mode=design)
 
-## :wrench: Tecnologias  
+## Tecnologias 
 
 <details>
 
-<summary> Front </summary>
+<summary> Front-end </summary>
 
   - Vue JS
   - Typescript
@@ -90,16 +125,16 @@
 
 <details>
 
-<summary> Back </summary>
+<summary> Back-end </summary>
 
   - Java
 
 </details>
 
+#
+
 
 <span id="equipe">
-
-## :busts_in_silhouette: Equipe
 
 ![2](https://github.com/projetoKhali/api4/assets/108769169/1e5fe000-ec9e-409a-8db4-d97933b260cb)
 
