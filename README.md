@@ -106,15 +106,15 @@
 #
 ![4](https://github.com/projetoKhali/api4/assets/111438883/88c0ad5e-a983-408d-9036-7493a7e74b7e)
 
-<h1 style="color: #06EF47; font-family: monospace; padding: 10px"> PROTÓTIPO </h1>
+## Protótipo
 
 <span id="tecnologias">
 
 [Wireframe do projeto](https://www.figma.com/proto/xv1PCPoN53l0FKuZaYchth/API-4-Oracle?type=design&node-id=38-2&t=7oac2UWs5HIKPzvg-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=38%3A2&mode=design)
 
-</br> 
+</br>
 
-<h1 style="color: #06EF47; font-family: monospace; padding: 10px"> TECNOLOGIAS </h1>
+## Tecnologias
 
 <h3 style="color: #C1FF72  "> Front-end </h3>
 
