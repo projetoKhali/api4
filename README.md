@@ -42,6 +42,20 @@
 </details>
 </br>
 
+<details open>
+
+<summary> Sprint 3 - Dashboard comparativo para Parceiro e Produtos </summary>
+
+| **Epíco** | **Story** | **Pontuação** |
+| :-------- | :----- | :-------------------: | 
+| Visão Analitica dos Parceiros | Eu como Consultor de alianças quero ter uma visão analitica comparativa entre parceiros para que eu possa obter insights acerca desses parceiros | 15 |
+| Visão Analitica dos Produtos |  Eu como Consultor de alianças quero ter uma visão analitica individual dos nossos produtos para que eu possa obter insights acerca do desempenho desses produto | 13 |
+
+</details>
+</br>
+
+
+
 <span id="entrega">
 
 
@@ -90,8 +104,20 @@
 </br>
 <details>
 
-<summary> Sprint 3 - Não definido </summary>
+<summary> Sprint 3 - Dashbaord Compartivo para Parceiros e Produtos </summary>
 
+## De 06/05 a 25/05 
+
+### Visão Analítica Comparativo entre Parceiros
+  - Dashboard interativo com métricas que mostram o comparativo entre parceiros em relação às tracks, expertises, qualificadores e região, dados que serão analisados:
+>* Área de atuação no BR, Tracks escolhidas, Expertises alcançadas, Certificações realizadas e Quantidade de profissionais
+  - Wireframe das telas do dashboard para aprovação e visualização prévia.
+ 
+
+### Visão Analítica comparativa entre Produtos
+  - Dashboard Interativo com métricas que mostram o comparativo das tracks suas expertises e qualificadores em relação aos parceiros e regiões, dados que serão analisados:
+  >* Número de parceiros, Número de expertises, Número de qualificadores, Tempo médio de conclusão, Percentual médio de conclusão e Taxa de abandono
+  - Wireframe das telas do dashboard para aprovação e visualização prévia.
 
 </details>
 </br>
