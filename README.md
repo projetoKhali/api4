@@ -17,7 +17,7 @@
 
 ![3](https://github.com/projetoKhali/api4/assets/111438883/5e49ebb5-8789-44d0-9a86-0018b7bcaa05)
 
-<details>
+<details open>
 <summary>Sprint 1 - Visão Analítica Individual do Progresso dos Parceiros & Produtos </summary>
 
 
@@ -28,7 +28,7 @@
 
 </details>
 </br>
-<details>
+<details open>
 
 <summary> Sprint 2 - Cadastro de Parceiros e Usuarios </summary>
 
