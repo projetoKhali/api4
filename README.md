@@ -54,6 +54,18 @@
 </details>
 </br>
 
+<details open>
+
+<summary> Sprint 4 - Extração de relatório </summary>
+
+| **Epíco** | **Story** | **Pontuação** |
+| :-------- | :----- | :-------------------: | 
+| Visão Analitica dos Produtos |  Eu como Consultor de alianças quero ter a possibilidade de extrair relatórios com os dados dos produtos para que eu possa analisá-los | 9 |
+| Visão Analitica dos Parceiros |  Eu como Consultor de alianças que ter a possibilidade de extrair um relatório com todos os dados dos parceiros e suas qualificações | 13 |
+
+</details>
+</br>
+
 
 
 <span id="entrega">
@@ -123,7 +135,22 @@
 </br>
 <details>
 
-<summary> Sprint 4 - Não definido </summary>
+<summary> Sprint 4 - Extração dos Relatórios </summary>
+
+### Extração de Relatórios de Parceiros
+- Interface para a extração de relatórios contendo informações de todos os parceiros, incluindo: nome, ID da empresa, cidade, trilha, expertise, qualificador, data de início, data de conclusão e vencimento.
+- Implementação de filtros para tornar a extração dos relatórios mais dinâmica e eficiente.
+
+### Extração de Relatórios de Produtos
+- Interface para a extração de relatórios contendo informações de todos os produtos, incluindo: nome, expertises, qualificadores e parceiros.
+- Implementação de filtros para tornar a extração dos relatórios mais dinâmica e eficiente.
+
+</details>
+</br>
+
+## Burndown
+
+<summary> Sprint 3 </summary>
 
 </details>
 </br>
