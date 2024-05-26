@@ -150,7 +150,10 @@
 
 ## Burndown
 
+<details>
 <summary> Sprint 3 </summary>
+
+![Apresentação sem título](https://github.com/projetoKhali/api4/assets/111438883/7c257739-c2bf-46bd-9acf-7c0d976568ce)
 
 </details>
 </br>
