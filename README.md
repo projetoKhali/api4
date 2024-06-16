@@ -32,7 +32,7 @@
 
 <summary> Sprint 2 - Cadastro de Parceiros e Usuarios </summary>
 
-| **Epíco** | **Story** | **Pontuação** |
+| **Épico** | **Story** | **Pontuação** |
 | :-------- | :----- | :-------------------: | 
 | Sistema de Cadastro de Parceiros |Eu como Administrador quero ser capaz de cadastrar novos Parceiros na plataforma para que eu possa acompanhar o seu desenvolvimento | 8 |
 | Sistema de Cadastro de Parceiros |Eu como Administrador quero ser capaz de atualizar os dados de um parceiro para manter seus dados sempre atualizados | 9 |
@@ -46,7 +46,7 @@
 
 <summary> Sprint 3 - Dashboard comparativo para Parceiro e Produtos </summary>
 
-| **Epíco** | **Story** | **Pontuação** |
+| **ÉpIco** | **Story** | **Pontuação** |
 | :-------- | :----- | :-------------------: | 
 | Visão Analitica dos Parceiros | Eu como Consultor de alianças quero ter uma visão analitica comparativa entre parceiros para que eu possa obter insights acerca desses parceiros | 15 |
 | Visão Analitica dos Produtos |  Eu como Consultor de alianças quero ter uma visão analitica individual dos nossos produtos para que eu possa obter insights acerca do desempenho desses produto | 13 |
@@ -58,7 +58,7 @@
 
 <summary> Sprint 4 - Extração de relatório </summary>
 
-| **Epíco** | **Story** | **Pontuação** |
+| **ÉpIco** | **Story** | **Pontuação** |
 | :-------- | :----- | :-------------------: | 
 | Visão Analitica dos Produtos |  Eu como Consultor de alianças quero ter a possibilidade de extrair relatórios com os dados dos produtos para que eu possa analisá-los | 9 |
 | Visão Analitica dos Parceiros |  Eu como Consultor de alianças que ter a possibilidade de extrair um relatório com todos os dados dos parceiros e suas qualificações | 13 |
