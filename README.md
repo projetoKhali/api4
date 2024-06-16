@@ -161,6 +161,8 @@
 <details>
 <summary> Sprint 4 </summary>
 
+![Apresentação sem título (1)](https://github.com/projetoKhali/api4/assets/111438883/3a871e8e-bb62-4b8d-9a9f-69977f8a324b)
+
 </details>
 </br>
 <span id="prototipo">
